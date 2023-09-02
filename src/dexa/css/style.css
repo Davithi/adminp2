@@ -1,0 +1,188 @@
+.logoText{
+    color: #01579B;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+}
+.logoText:hover, .link:hover{
+    color: #01579B;
+    opacity: 0.8;
+}
+.link{
+    color: #01579B;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    border-bottom: 2px solid #448AFF;
+}
+.linkColor{
+    color: #448AFF;
+}
+.textSection{
+    color: #9E9E9E;
+}
+.textSection:hover{
+    color: #9E9E9E;
+    opacity: 0.8;
+}
+.border-sm, .borderForm{
+    border-bottom: 2px solid #E1E1E1;
+}
+.textSection{
+    color: #9E9E9E;
+}
+.textSection:hover{
+    color: #9E9E9E;
+    opacity: 0.8;
+}
+.border-sm{
+    border-bottom: 2px solid #E1E1E1;
+}
+.activs{
+    color: #0277BD;
+    border-bottom: 2px solid #0277BD;
+    border-right: 25px;
+    border-radius: 1px;
+}
+.activs:hover{
+    color: #0277BD;
+    opacity: 0.8;
+}
+.buttonDisign{
+    border-radius: 50%;
+    background: #607D8B;
+    color: white;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px; 
+    letter-spacing: 0.4px;
+    padding: 0px 5px;
+    border: none;
+}
+.buttonDisign:hover{
+    background: #607D8B;
+    color: white;
+}
+.textDisign{
+    color: #5E6366;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.4px;
+}
+.textDisignTwo{
+    color: #5E6366;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.15px;
+}
+.textTwo{
+    margin-left: 35%;
+}
+#button-color{
+    background: white;
+}
+.link-one{
+    color: #448AFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; 
+    letter-spacing: 0.4px;
+}
+.link-one:focus{
+    color: #448AFF;
+}
+#floatingInputGrid, #floatingSelectGrid{
+    padding-top: 0;
+    padding-bottom: 0;
+    box-shadow: none;
+}
+#floatingTextarea2{
+    box-shadow: none;
+}
+.blockClasName{
+    border-radius: 2px;
+    background: #888;
+    color: white;
+    display: flex;
+    width: 35px;
+    height: 25px;
+    padding: 5px 4px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 10px;
+}
+.blockClasNameTrue{
+    border-radius: 2px;
+    background: #00C853;
+    color: white;
+    display: flex;
+    width: 35px;
+    height: 25px;
+    padding: 5px 4px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 10px;
+}
+.blockClasNameTrue p, .blockClasName p {
+    margin: 0;
+}
+.addButton{
+    background: none;
+    border: #0000004D solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+.addButton:hover{
+    background: none;
+    border: #0000004D solid;
+}
+.deletButton{
+    background: none;
+    color: #0277BD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+.deletButton:hover{
+    background: none;
+    color: #0277BD;
+}
+.downloadBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+.borderForm{
+    padding-bottom: 15px;
+}
+.shows{
+    display: block;
+    max-width: 250px;
+    width: 100%;
+}
+.noShows{
+    display: none;
+}
+.showsA{
+    color: #0277BD;
+    cursor: pointer;
+    text-decoration: none;
+}
+.noShowsA{
+    color: #5E6366;
+    cursor: pointer;
+    text-decoration: none;
+}
